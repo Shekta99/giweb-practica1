@@ -1,0 +1,47 @@
+.sections {
+  background-color: cadetblue;
+  text-align: center;
+  width: 50%;
+  margin: 10px auto;
+  border-radius: 15px;
+  padding: 2%;
+  border: 3px solid black;
+  box-shadow: 5px 5px 3px teal;
+}
+
+.sections img {
+  border-radius: 12px;
+  border: 3px solid black;
+}
+
+table,
+td,
+th {
+  border: 3px solid black;
+  border-radius: 3px;
+  border-collapse: collapse;
+  margin: auto;
+}
+
+th {
+  background-color: darkslategray;
+  color: azure;
+}
+
+tr:nth-child(even) {
+  background-color: aqua;
+}
+
+#sinopsis p {
+  width: 80%;
+  margin: auto;
+}
+
+#ventajas div {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
